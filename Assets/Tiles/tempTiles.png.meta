@@ -51,7 +51,7 @@ TextureImporter:
       213: -6163525264376975888
     second: tempTiles_15
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -72,7 +72,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -111,7 +110,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -498,23 +496,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      GreenTile1: 1530477947836702527
-      tempTiles_0: -639991675627854064
-      tempTiles_1: 2043204768236350574
-      tempTiles_10: 1938776185418788616
-      tempTiles_11: -1040372909349460563
-      tempTiles_12: -277734827861802670
-      tempTiles_14: -6100682932923744883
-      tempTiles_15: -6163525264376975888
-      tempTiles_2: -819933776554948781
-      tempTiles_3: -7775202598055721061
-      tempTiles_4: 3621961961082092036
-      tempTiles_5: -7165100591885684148
-      tempTiles_6: -3685789831892771063
-      tempTiles_7: 1317823438010886412
-      tempTiles_8: -6410748704561637200
-      tempTiles_9: 5948578175962620524
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
